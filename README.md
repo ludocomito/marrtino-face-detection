@@ -1,6 +1,6 @@
 # MARRtino face detection
 
-## About the repo
+## About this repo
 
 This repository is part of the thesis project involving the robotic platform MARRtino developed by La Sapienza University of Rome. The goal of this project is making the robot navigate inside a mapped environment in order to make him take the package delivered by a postman.
 
