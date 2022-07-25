@@ -6,7 +6,7 @@ This repository is part of the thesis project involving the robotic platform MAR
 
 Inside this repository lies the part of the project responsible for creating and training a neural network model capable of making MARRtino recognize faces (with and without masks on).
 
-The main components of this repo are the jupyter notebook files, which contain the [training phase](https://github.com/ludocomito/marrtino-face-detection#:~:text=MARRtino_Face_Detection_Use_Model.ipynb) of the model, and the [usage](https://github.com/ludocomito/marrtino-face-detection/blob/main/MARRtino_Face_Detection_Use_Model.ipynb) and testing of the trained model.
+The main components of this repo are the jupyter notebook files, which contain the [training phase](https://github.com/ludocomito/marrtino-face-detection#:~:text=MARRtino_Face_Detection_Use_Model.ipynb) of the model, and the [usage](https://github.com/ludocomito/marrtino-face-detection/blob/main/MARRtino_Face_Detection_Use_Model.ipynb) and [testing](https://github.com/ludocomito/marrtino-face-detection/blob/main/face-mask-model-study.ipynb) of the trained model.
 
 ## Considerations about the dataset  💽
 
