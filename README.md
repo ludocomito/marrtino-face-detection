@@ -59,3 +59,11 @@ The not pre-trained one instead follows a much more organic evolution, starting 
 ![Schermata 2022-07-25 alle 00.09.27.png](MARRtino%20face%20mask%20classifier%20%F0%9F%98%B7%207299dc058b1f423b8c52abe74d447d28/Schermata_2022-07-25_alle_00.09.27.png)
 
 The plots show here have been created by logging the training data to the Weights&Biases platform. I included better documentation inside the [training reports](https://github.com/ludocomito/marrtino-face-detection/tree/main/training%20reports) folder, that you can find inside this repository.
+
+## Checking the model’s performance  🔍
+
+In order to measure the performance of the obtained model (in this case the not pre-trained one) I computed a confusion matrix testing the predictions on the whole dataset. As you can see from the image below, the results are well distributed on the main diagonal, showing that most of the model predictions are actually correct, with only a small percentage (approx 1%) of incorrect guesses:
+
+![Plotted using sklearn, pandas and seaborn ](MARRtino%20face%20mask%20classifier%20%F0%9F%98%B7%207299dc058b1f423b8c52abe74d447d28/Schermata_2022-07-25_alle_17.11.44.png)
+
+Plotted using sklearn, pandas and seaborn
